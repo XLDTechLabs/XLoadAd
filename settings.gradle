@@ -1,0 +1,3 @@
+rootProject.name='Ad Partner'
+include ':app'
+include ':adpartner'
